@@ -10,7 +10,7 @@ Automação é um sistema que emprega processos automáticos que comandam e cont
 
 O objetivo aqui é criar alguns projetinhos de internet das coisas (IoT), e automatizar eles, criar comandos remotos, coletar dados e fazer com que as coisas aprendam a se automatizar.
 
-## Instlação do controlador
+## Instalação do controlador
 
 O projeto inteiro da OpenHome vai ser controlado pelo Home Assistant, uma plataforma de automação residencial open-source feita em Python 3.
 
